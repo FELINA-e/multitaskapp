@@ -16,7 +16,7 @@ class ProfileView extends StatelessWidget {
           ),
           const SizedBox(height: 10),
           const Text(
-            "Samia-Nady",
+            "MALAK-LABIB",
             style: TextStyle(
               color: Colors.deepOrange,
               fontSize: 25,
